@@ -1,5 +1,5 @@
 function main(){
-  var $header = $(".header");
+  var $header = $("*");
   $header.hide();
   $header.fadeIn(2000);
 }
