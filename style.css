@@ -4,8 +4,8 @@
 }
 body{
   background: #141E30;
-  margin: 0;
-  padding: 0;
+  margin: 10px;
+  padding: 10px;
 }
 .header{
   text-decoration:underline;
