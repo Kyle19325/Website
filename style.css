@@ -16,3 +16,7 @@ body{
 .comment{
   color: rgb(150,150,150);
 }
+
+.hightlight{
+  background: rgb(100,20,20);
+}
