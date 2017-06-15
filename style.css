@@ -25,5 +25,6 @@ body{
 
 li{
   position: fixed;
-  list-style: none;
+  list-style-type: none;
+  text-align: right;
 }
