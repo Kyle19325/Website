@@ -24,7 +24,14 @@ body{
 }
 
 li{
-  position: fixed;
   list-style-type: none;
   text-align: right;
+}
+
+nav{
+  top:0px;
+  left:0px;
+  position: fixed;
+  overflow-y: auto;
+  width: 100%
 }
