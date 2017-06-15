@@ -1,6 +1,6 @@
 function main(){
-  var $* = $("*");
-  $*.hide();
-  $*.fadeIn(2000);
+  var $all = $("*");
+  $all.hide();
+  $all.fadeIn(2000);
 }
 $(document).ready(main);
