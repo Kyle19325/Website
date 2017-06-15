@@ -29,8 +29,8 @@ li{
 }
 
 nav{
-  top:10px;
-  left:10px;
+  top:0px;
+  right: 10px;
   position: fixed;
   overflow-y: auto;
   width: 100%
