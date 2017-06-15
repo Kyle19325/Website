@@ -1,5 +1,5 @@
 *{
-  color: rgb(255,255,255);
+  color: rgb(200,200,200);
   font-family:Arial,sans-serif;
 }
 
@@ -10,7 +10,7 @@ body{
 }
 
 .header{
-  text-decoration:underline;
+  text-decoration: underline;
 }
 
 .comment{
@@ -18,5 +18,6 @@ body{
 }
 
 .hightlight{
-  background-color: rgb(100,20,20);
+  color: rgb(255,255,255);
+  text-decoration: underline;
 }
